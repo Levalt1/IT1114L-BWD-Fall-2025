@@ -4,12 +4,6 @@
 <p align="center">
     <i>Love to establish new thing and destroy it</i> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" />
 </p>
-
-<p align="center">
-    <a href="#">
-        <img src="https://img.shields.io/badge/Chino%236969-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-</p>
         
 <h1 align="center"><img align="left" src="https://orhun.dev/img/crow.png"></h1>
         <center>
